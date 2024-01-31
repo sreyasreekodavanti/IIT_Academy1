@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+.header
+{
+    height: 80vh;
+}
+.navbar
+{
+    box-shadow: 0 10px 10px #efefef;
+}
+.logo
+{
+    height: 140px;
+    width: 400px;
+    padding: 0px 15px;
+    padding-left: 10px;
+}
+.navbar-light .navbar-nav .navbar-link
+{
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-item
+{
+    margin: 0 15px;
+}
+.banner-image
+{
+    background-image: url(college.png);
+    background-size: cover;
+}
+.logo
+{
+    padding-left: 50px;
+}
+header
+{
+    background: no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+.color-overlay
+{
+    min-height: 100vh;
+    background-color: rgba(0,0,0,.5);
+}
+.primary
+{
+    border: solid gray;
+    background-color: #efefef;
+}
+.secondary
+{
+    border: solid gray;
+    background-color: #efefef;
+}
